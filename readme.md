@@ -1,0 +1,1 @@
+Example implementation of box plot Kata (http://ccd-school.de/coding-dojo/class-katas/box-plot/) in Java 8 according to IODA architecture (http://geekswithblogs.net/theArchitectsNapkin/archive/2015/04/29/the-ioda-architecture.aspx). 
